@@ -11,3 +11,4 @@ public class HelloWorld {
         logger.info("Hello World");          // the old SysO-statement
     }
 }
+
